@@ -445,7 +445,7 @@ during the workshop.
 <h3 id="setup">Python</h3>
 In order to make it easier for the participants, we are going to use online Jupyter Notebooks. That means, you do NOT have to download or install anything.
 
-Just open <a href = "[https://jupyter-cloud.gwdg.de/welcome/?](https://jupyter.org)"> instead.</a>
+Just open <a href = "[https://jupyter.org](https://jupyter.org)"> instead.</a>
 
 {% elsif site.carpentry == "incubator" %}
 Please check the "Setup" page of
